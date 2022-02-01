@@ -4,7 +4,7 @@ Let's begin!
 
 The highest level concept of BOSH is the "deployment" of a system. The purpose of BOSH is to continuously run one or more deployments. For example, a cluster of servers that form a ZooKeeper cluster is a deployment of the ZooKeeper system.
 
-In [Joyful operations](/introduction/#joyful-operations) we began by creating a deployment:
+In [Joyful operations](/introduction.html/#joyful-operations) we began by creating a deployment:
 
 ```
 > export BOSH_DEPLOYMENT=zookeeper
